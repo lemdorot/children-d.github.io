@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/children-d.github.io/static/css/main.9bd2b869.css",
-    "main.js": "/children-d.github.io/static/js/main.a3342ba0.js",
+    "main.css": "/children-d.github.io/static/css/main.0b325a85.css",
+    "main.js": "/children-d.github.io/static/js/main.bda8dc2e.js",
     "static/media/bg.png": "/children-d.github.io/static/media/bg.bb30e3cd94ffb010ead2.png",
     "static/media/sky.png": "/children-d.github.io/static/media/sky.4eb7ef9abc2d89ac8b88.png",
     "static/media/diploma.png": "/children-d.github.io/static/media/diploma.93a8f42790ce8bddd129.png",
@@ -9,11 +9,11 @@
     "static/media/line.svg": "/children-d.github.io/static/media/line.4f07cf2d14208d6ae15f.svg",
     "index.html": "/children-d.github.io/index.html",
     "static/media/check.svg": "/children-d.github.io/static/media/check.1ef455351cd1a2c41c9c.svg",
-    "main.9bd2b869.css.map": "/children-d.github.io/static/css/main.9bd2b869.css.map",
-    "main.a3342ba0.js.map": "/children-d.github.io/static/js/main.a3342ba0.js.map"
+    "main.0b325a85.css.map": "/children-d.github.io/static/css/main.0b325a85.css.map",
+    "main.bda8dc2e.js.map": "/children-d.github.io/static/js/main.bda8dc2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bd2b869.css",
-    "static/js/main.a3342ba0.js"
+    "static/css/main.0b325a85.css",
+    "static/js/main.bda8dc2e.js"
   ]
 }
